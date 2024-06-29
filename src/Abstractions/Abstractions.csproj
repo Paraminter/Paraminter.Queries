@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Commands.Abstractions</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Abstractions</AssemblyName>
         
-        <PackageId>Paraminter.Commands.Abstractions</PackageId>
-        <Description>Provides abstractions of services related to Paraminter commands.</Description>
+        <PackageId>Paraminter.Queries.Abstractions</PackageId>
+        <Description>Provides abstractions of services related to Paraminter queries.</Description>
     </PropertyGroup>
 
     <ItemGroup>
