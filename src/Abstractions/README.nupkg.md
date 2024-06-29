@@ -1,5 +1,5 @@
-# Paraminter.Commands.Abstractions
+# Paraminter.Queries.Abstractions
 
-Provides abstractions of services related to `Paraminter` commands.
+Provides abstractions of services related to `Paraminter` queries.
 
-See [GitHub](https://github.com/Paraminter/Paraminter.Commands) for more information.
+See [GitHub](https://github.com/Paraminter/Paraminter.Queries) for more information.

@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Commands.Core</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Core</AssemblyName>
         
-        <PackageId>Paraminter.Commands.Core</PackageId>
-        <Description>Defines the core components of Paraminter commands.</Description>
+        <PackageId>Paraminter.Queries.Core</PackageId>
+        <Description>Defines the core components of Paraminter queries.</Description>
     </PropertyGroup>
 
 </Project>
