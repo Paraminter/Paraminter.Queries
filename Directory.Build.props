@@ -3,7 +3,7 @@
     <PropertyGroup>
         <LangVersion>12</LangVersion>
 
-        <RootNamespace>Paraminter</RootNamespace>
+        <RootNamespace>Paraminter.Queries</RootNamespace>
 
         <Nullable>enable</Nullable>
         <AnalysisMode>all</AnalysisMode>

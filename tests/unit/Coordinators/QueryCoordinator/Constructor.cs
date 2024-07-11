@@ -1,4 +1,4 @@
-﻿namespace Paraminter;
+﻿namespace Paraminter.Queries.Coordinators;
 
 using Moq;
 

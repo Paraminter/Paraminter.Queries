@@ -1,4 +1,4 @@
-﻿namespace Paraminter;
+﻿namespace Paraminter.Queries;
 
 /// <summary>Handles queries.</summary>
 /// <typeparam name="TQuery">The type of the handled queries.</typeparam>
