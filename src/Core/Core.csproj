@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Core</AssemblyName>
         
-        <PackageId>Paraminter.Queries</PackageId>
+        <PackageId>Paraminter.Queries.Core</PackageId>
         <Description>Defines Paraminter queries.</Description>
     </PropertyGroup>
 

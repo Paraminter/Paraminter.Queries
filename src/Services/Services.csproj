@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries.Coordinators</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Services</AssemblyName>
         
-        <PackageId>Paraminter.Queries.Coordinators</PackageId>
-        <Description>Provides general implementations of services related to Paraminter query coordinators.</Description>
+        <PackageId>Paraminter.Queries.Services</PackageId>
+        <Description>Provides general implementations of services related to Paraminter queries.</Description>
     </PropertyGroup>
 
     <ItemGroup>

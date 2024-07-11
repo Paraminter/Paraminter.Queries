@@ -24,7 +24,7 @@ public sealed class QueryCoordinator<TQuery, TResponse, TQueryFactory>
     }
 
     TResponse IQueryCoordinator<TQuery, TResponse, TQueryFactory>.Handle(
-        DCreateQuery<TQuery, TQueryFactory> queryCreationDelegate)
+        DCreateQueryThroughFactory<TQueryFactory, TQuery> queryCreationDelegate)
     {
         if (queryCreationDelegate is null)
         {
