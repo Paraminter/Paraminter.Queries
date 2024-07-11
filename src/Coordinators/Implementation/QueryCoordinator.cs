@@ -1,5 +1,7 @@
 ﻿namespace Paraminter.Queries.Coordinators;
 
+using Paraminter.Queries.Handlers;
+
 using System;
 
 /// <inheritdoc cref="IQueryCoordinator{TQuery, TResponse, TQueryFactory}"/>
