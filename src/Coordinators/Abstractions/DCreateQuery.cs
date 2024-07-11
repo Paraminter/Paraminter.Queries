@@ -1,4 +1,4 @@
-﻿namespace Paraminter;
+﻿namespace Paraminter.Queries.Coordinators;
 
 /// <summary>Creates a query.</summary>
 /// <typeparam name="TQuery">The type of the created query.</typeparam>
