@@ -1,5 +1,5 @@
 # Paraminter.Queries
 
-Adds support for queries to `Paraminter`.
+Defines `Paraminter` queries and query handlers.
 
 See [Paraminter](https://www.github.com/Paraminter/Paraminter) for more information.

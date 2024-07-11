@@ -2,6 +2,8 @@
 
 using Moq;
 
+using Paraminter.Queries.Handlers;
+
 internal static class FixtureFactory
 {
     public static IFixture<TQuery, TResponse, TQueryFactory> Create<TQuery, TResponse, TQueryFactory>()

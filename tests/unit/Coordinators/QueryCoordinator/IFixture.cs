@@ -2,6 +2,8 @@
 
 using Moq;
 
+using Paraminter.Queries.Handlers;
+
 internal interface IFixture<TQuery, TResponse, TQueryFactory>
     where TQuery : IQuery
     where TQueryFactory : class
