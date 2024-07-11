@@ -23,7 +23,7 @@ public sealed class Handle
     {
         var fixture = FixtureFactory.Create<IQuery, object, object>();
 
-        Mock<DCreateQuery<IQuery, object>> queryCreationDelegateMock = new();
+        Mock<DCreateQueryThroughFactory<object, IQuery>> queryCreationDelegateMock = new();
 
         var query = Mock.Of<IQuery>();
         var response = Mock.Of<object>();
@@ -41,7 +41,7 @@ public sealed class Handle
 
     private static TResponse Target<TQuery, TResponse, TQueryFactory>(
         IFixture<TQuery, TResponse, TQueryFactory> fixture,
-        DCreateQuery<TQuery, TQueryFactory> queryCreationDelegate)
+        DCreateQueryThroughFactory<TQueryFactory, TQuery> queryCreationDelegate)
         where TQuery : IQuery
         where TQueryFactory : class
     {

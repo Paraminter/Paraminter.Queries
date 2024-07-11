@@ -1,4 +1,4 @@
-# Paraminter.Queries
+# Paraminter.Queries.Core
 
 Defines `Paraminter` queries.
 
