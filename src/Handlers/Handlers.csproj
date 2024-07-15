@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Queries.Handlers.Core</AssemblyName>
+
+        <RootNamespace>Paraminter.Queries.Handlers</RootNamespace>
+        
+        <PackageId>Paraminter.Queries.Handlers.Core</PackageId>
+        <Description>Defines Paraminter query handlers.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="$(SolutionDir)\src\Collectors\Collectors.csproj" />
+        <ProjectReference Include="$(SolutionDir)\src\Core\Core.csproj" />
+    </ItemGroup>
+
+</Project>
