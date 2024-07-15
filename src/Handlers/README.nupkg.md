@@ -1,4 +1,4 @@
-# Paraminter.Queries.Handlers.Core
+# Paraminter.Queries.Handlers
 
 Defines `Paraminter` query handlers.
 

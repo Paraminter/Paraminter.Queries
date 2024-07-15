@@ -1,11 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries.Handlers.Core</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Handlers</AssemblyName>
 
         <RootNamespace>Paraminter.Queries.Handlers</RootNamespace>
         
-        <PackageId>Paraminter.Queries.Handlers.Core</PackageId>
+        <PackageId>Paraminter.Queries.Handlers</PackageId>
         <Description>Defines Paraminter query handlers.</Description>
     </PropertyGroup>
 

@@ -1,11 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries.Collectors.Core</AssemblyName>
+        <AssemblyName>Paraminter.Queries.Collectors</AssemblyName>
 
         <RootNamespace>Paraminter.Queries.Collectors</RootNamespace>
         
-        <PackageId>Paraminter.Queries.Collectors.Core</PackageId>
+        <PackageId>Paraminter.Queries.Collectors</PackageId>
         <Description>Defines Paraminter query response collectors.</Description>
     </PropertyGroup>
 
