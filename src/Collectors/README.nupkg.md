@@ -1,4 +1,4 @@
-# Paraminter.Queries.Collectors.Core
+# Paraminter.Queries.Collectors
 
 Defines `Paraminter` query response collectors.
 
