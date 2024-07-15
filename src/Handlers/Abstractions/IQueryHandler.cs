@@ -2,7 +2,7 @@
 
 /// <summary>Handles queries.</summary>
 /// <typeparam name="TQuery">The type of the handled queries.</typeparam>
-/// <typeparam name="TResponse">The type collecting the responses from handling queries.</typeparam>
+/// <typeparam name="TResponseCollector">The type collecting the responses from handling queries.</typeparam>
 public interface IQueryHandler<in TQuery, in TResponseCollector>
     where TQuery : IQuery
 {
