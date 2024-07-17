@@ -1,4 +1,4 @@
 ﻿namespace Paraminter.Queries.Collectors;
 
-/// <summary>Collects the response from handling a query.</summary>
+/// <summary>Collects the responses from query handlers.</summary>
 public interface IQueryResponseCollector { }
