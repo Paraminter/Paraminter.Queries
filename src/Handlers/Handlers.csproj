@@ -10,7 +10,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="$(SolutionDir)\src\Collectors\Collectors.csproj" />
         <ProjectReference Include="$(SolutionDir)\src\Core\Core.csproj" />
     </ItemGroup>
 
