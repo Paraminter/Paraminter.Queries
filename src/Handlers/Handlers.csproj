@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries.Handlers</AssemblyName>
+        <AssemblyName>Paraminter.Cqs.Queries.Handlers</AssemblyName>
 
-        <RootNamespace>Paraminter.Queries.Handlers</RootNamespace>
+        <RootNamespace>Paraminter.Cqs.Handlers</RootNamespace>
         
-        <PackageId>Paraminter.Queries.Handlers</PackageId>
-        <Description>Defines Paraminter query handlers.</Description>
+        <PackageId>Paraminter.Cqs.Queries.Handlers</PackageId>
+        <Description>Defines Paraminter CQS query handlers.</Description>
     </PropertyGroup>
 
     <ItemGroup>

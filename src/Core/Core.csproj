@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Queries</AssemblyName>
+        <AssemblyName>Paraminter.Cqs.Queries</AssemblyName>
         
-        <PackageId>Paraminter.Queries</PackageId>
-        <Description>Defines Paraminter queries.</Description>
+        <PackageId>Paraminter.Cqs.Queries</PackageId>
+        <Description>Defines Paraminter CQS queries.</Description>
     </PropertyGroup>
 
 </Project>
