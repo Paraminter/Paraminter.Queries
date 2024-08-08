@@ -1,5 +1,3 @@
-# Paraminter.Queries
+# Paraminter.Cqs.Queries
 
-Defines `Paraminter` queries and query handlers.
-
-See [Paraminter](https://www.github.com/Paraminter/Paraminter) for more information.
+Defines `Paraminter` CQS queries and query handlers.
