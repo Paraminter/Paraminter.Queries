@@ -3,7 +3,7 @@
     <PropertyGroup>
         <AssemblyName>Paraminter.Cqs.Queries.Handlers</AssemblyName>
 
-        <RootNamespace>Paraminter.Cqs.Handlers</RootNamespace>
+        <RootNamespace>Paraminter.Cqs</RootNamespace>
         
         <PackageId>Paraminter.Cqs.Queries.Handlers</PackageId>
         <Description>Defines Paraminter CQS query handlers.</Description>
