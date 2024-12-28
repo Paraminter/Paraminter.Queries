@@ -2,11 +2,9 @@
 
     <PropertyGroup>
         <AssemblyName>Paraminter.Cqs.Queries.Handlers</AssemblyName>
-
-        <RootNamespace>Paraminter.Cqs</RootNamespace>
         
         <PackageId>Paraminter.Cqs.Queries.Handlers</PackageId>
-        <Description>Defines Paraminter CQS query handlers.</Description>
+        <Description>Defines Paraminter query handlers.</Description>
     </PropertyGroup>
 
     <ItemGroup>
