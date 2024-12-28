@@ -1,3 +1,3 @@
 # Paraminter.Cqs.Queries
 
-Defines `Paraminter` CQS queries and query handlers.
+Defines `Paraminter` queries and query handlers.
