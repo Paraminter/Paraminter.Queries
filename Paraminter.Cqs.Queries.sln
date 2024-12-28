@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{31843085-A94
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Core\Core.csproj", "{53917CE4-EB7D-483C-99CA-9DF0BC3C2D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers", "src\Handlers\Handlers.csproj", "{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Handlers", "Handlers", "{077BCD7D-A768-43C8-96DE-9EE58311269B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers.Abstractions", "src\Handlers\Abstractions\Handlers.Abstractions.csproj", "{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,16 +29,17 @@ Global
 		{53917CE4-EB7D-483C-99CA-9DF0BC3C2D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53917CE4-EB7D-483C-99CA-9DF0BC3C2D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53917CE4-EB7D-483C-99CA-9DF0BC3C2D00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{53917CE4-EB7D-483C-99CA-9DF0BC3C2D00} = {31843085-A944-475A-B666-C2EFC2332FBF}
-		{7AD7697E-62BB-4B49-B15E-5CE8AFCE07FF} = {31843085-A944-475A-B666-C2EFC2332FBF}
+		{077BCD7D-A768-43C8-96DE-9EE58311269B} = {31843085-A944-475A-B666-C2EFC2332FBF}
+		{8C8D8AAC-3987-45CE-90DA-A1DD8D37672F} = {077BCD7D-A768-43C8-96DE-9EE58311269B}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Cqs.Queries.Handlers.Abstractions</AssemblyName>
+        
+        <PackageId>Paraminter.Cqs.Queries.Handlers.Abstractions</PackageId>
+        <Description>Defines abstractions related to Paraminter query handlers.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="$(SolutionDir)\src\Core\Core.csproj" />
+    </ItemGroup>
+
+</Project>
